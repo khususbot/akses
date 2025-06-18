@@ -3,5 +3,10 @@
         "username": "hikzcortuz",
         "role": "editor",
         "password_plaintext": "hikzcortuz"
+    },
+    {
+        "username": "hikzowner",
+        "role": "editor",
+        "password_plaintext": "owner"
     }
 ]
